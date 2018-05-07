@@ -7,8 +7,8 @@ You can use [`natbib`](https://journals.aas.org/authors/aastex.html) to manage c
 To compile the example, run
 
 1. `pdflatex ms.tex`
-2. `bibtex intro` (if you place all your references in a \*.bib file)
-3. `bibtex appdx` (if you place all your references in a \*.bib file)
+2. `bibtex intro` (if you place your references in a \*.bib file)
+3. `bibtex appdx` (if you place your references in a \*.bib file)
 4. `pdflatex ms.tex`
 
 You can populate the template with chapters and appendices, with each as an independent TeX file.
